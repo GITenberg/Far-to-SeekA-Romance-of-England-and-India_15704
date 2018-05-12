@@ -1,0 +1,28 @@
+_repo: Far-to-SeekA-Romance-of-England-and-India_15704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diver, Maud
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '6213'
+    url: http://www.gutenberg.org/2009/agents/6213
+description: ''
+gutenberg_issued: '2005-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Far to Seek
+
+  A Romance of England and India'
+url: http://www.gutenberg.org/ebooks/15704
